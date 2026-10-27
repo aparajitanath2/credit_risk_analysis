@@ -1,0 +1,8 @@
+item,value
+Test cases,300.0
+Observed bad rate (test),0.3
+Logistic regression: ROC-AUC,0.7676190476190476
+Logistic regression: Gini,0.5352380952380953
+Logistic regression: Brier score,0.1687889298637699
+SIMULATED duration x 1.25: PSI of scores,0.025526681941823715
+SIMULATED duration x 1.25: change in mean predicted PD,0.021649958245343548
